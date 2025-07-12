@@ -37,8 +37,9 @@ Skill-Swap-Odo is a mini web application that allows users to list their skills 
 
 > _Add setup instructions here when ready, e.g., clone repo, install dependencies, run locally, etc._
 
+## 🛠️ Example Setup
+
 ```bash
-# Example
 git clone https://github.com/yourusername/Skill-Swap-Odo.git
 cd Skill-Swap-Odo
 npm install

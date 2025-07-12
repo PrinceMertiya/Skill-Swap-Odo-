@@ -1,5 +1,4 @@
 # Skill-Swap-Odo-
-ashok12solanki12@gmail.com
 
 
 Skill Swap Platform
@@ -40,6 +39,8 @@ Memebers
 
 Kritika Jain
 
+
 Mahati Atre
 
 Ashok Solanki
+ashok12solanki12@gmail.com
